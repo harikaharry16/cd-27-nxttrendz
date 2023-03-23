@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.logo {
+  height: 45px;
+  width: 150px;
+}
+.top-r {
+  display: flex;
+  flex-direction: row;
+}
+.names {
+  color: black;
+  font-size: 35px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.btn {
+  color: white;
+  background-color: blue;
+  border-radius: 10px;
+  height: 35px;
+  width: 100px;
+}

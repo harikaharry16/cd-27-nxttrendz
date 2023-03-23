@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.container-home {
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.inner-cont {
+  display: flex;
+  flex-direction: column;
+}
+.head {
+  font-size: 45px;
+  color: black;
+  font-family: 'Roboto';
+}
+.para {
+  font-size: 45px;
+  color: black;
+  font-family: 'Roboto';
+}
+.btn {
+  color: white;
+  background-color: blue;
+  border-radius: 10px;
+  height: 35px;
+  width: 100px;
+}
+.clothes-logo {
+  height: 450px;
+  width: 450px;
+}
